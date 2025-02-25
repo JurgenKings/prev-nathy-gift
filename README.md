@@ -27,7 +27,7 @@ Si desea ver el proyecto real, puede visitarlo en el siguiente enlace: https://n
 
 ## 📝 Licencia
 
-Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto preview está licenciado bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ## 📝 Autor
 
