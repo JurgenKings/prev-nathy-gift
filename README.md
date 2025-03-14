@@ -31,4 +31,4 @@ Este proyecto preview está licenciado bajo la licencia MIT. Consulta el archivo
 
 ## 📝 Autor
 
-[Jurgen Kings](https://jurgen-kings.vercel.app)
+[Jurgen Kings](https://jurgenkings.com)
